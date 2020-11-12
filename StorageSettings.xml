@@ -1,0 +1,6 @@
+<Objects xmlns="http://v8.1c.ru/8.3/config/objects" version="1.0">
+    <Configuration includeChildObjects = "false"/>
+    <Object fullName = "Подсистема.тлПервыйБытовой" includeChildObjects= "true">
+        <Subsystem includeObjectsFromSubordinateSubsystems = "true"/>
+    </Object>
+</Objects>
